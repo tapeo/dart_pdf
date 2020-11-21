@@ -4,3 +4,5 @@ pdf
 test
 demo
 .coverage
+.pana
+.dartfix
