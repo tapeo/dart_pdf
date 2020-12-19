@@ -4,14 +4,14 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "8780010a5bc815e863dda1aec942e9f9",
-"index.html": "36f79fb335b5bbb787a6fa6d61cb79d9",
-"/": "36f79fb335b5bbb787a6fa6d61cb79d9",
+"index.html": "afd41ec47ba1740121c5ab53428f80fb",
+"/": "afd41ec47ba1740121c5ab53428f80fb",
 "main.dart.js": "bb3a627bbf7b03d076518695549c91f1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "015efdb713b48345c64a31dc9a3f0562",
-"assets/AssetManifest.json": "77b72608a759e27fea2235d176a8a7f6",
+"assets/AssetManifest.json": "75f56d82e61aecf57a36caca38d56ba0",
 "assets/NOTICES": "806f48637b108b0064f00185da20ee88",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -20,11 +20,11 @@ const RESOURCES = {
 "assets/assets/roboto1.ttf": "96e5fbad8c2f5b81165ede8b2f08a14b",
 "assets/assets/roboto3.ttf": "cd9fe6b2852b98381b3d205aa45d42e2",
 "assets/assets/roboto2.ttf": "74bc6165dc68714ccaa88f5c64656b1c",
-"assets/assets/logo.png": "f940a178abe014c703d29ff9b10b8796",
 "assets/assets/profile.jpg": "1e4cf308782c44346db361e95c003a6c",
 "assets/assets/calendar.svg": "44dc5e7c4290b9312b91f0cb3377bd2d",
 "assets/assets/material.ttf": "8ef52a15e44481b41e7db3c7eaf9bb83",
 "assets/assets/invoice.svg": "ed6bd474d30a8d750aa924a78918b1ac",
+"assets/assets/logo.svg": "50ac89287e374ce31bacbc5baede9bb3",
 "assets/assets/open-sans-bold.ttf": "72ef36bba0e50b8e32f69ccb87f255b4"
 };
 
