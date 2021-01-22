@@ -62,7 +62,7 @@ public class PrintJob: UIPrintPageRenderer, UIPrintInteractionControllerDelegate
 
         let printInfo = UIPrintInfo.printInfo()
         printInfo.jobName = jobName!
-        printInfo.outputType = .general
+        printInfo.outputType = .photo
         if orientation != nil {
             printInfo.orientation = orientation!
             orientation = nil
@@ -96,7 +96,7 @@ public class PrintJob: UIPrintPageRenderer, UIPrintInteractionControllerDelegate
 
         let printInfo = UIPrintInfo.printInfo()
         printInfo.jobName = name
-        printInfo.outputType = .general
+        printInfo.outputType = .photo
         controller.printInfo = printInfo
         controller.printingItem = data
         let printerURL = URL(string: printerID)
